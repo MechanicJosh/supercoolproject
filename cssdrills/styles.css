@@ -1,0 +1,98 @@
+body{
+    font-family: 'handlee';
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(245, 7, 7);
+}
+
+:hover link{
+    cursor: pointer;
+    color: rgb(51, 0, 255);
+    font-weight: bold;
+}
+
+span{
+    color:brown;
+    font-weight: bold;
+}
+
+.boxes{
+    margin: 1em, 1em;
+    padding: 1em, 1em;
+    border-style: solid;
+    border-color: darkorange;
+    border-radius: 5%;
+    width: 30em;
+    display: block;
+}
+
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: rgb(0, 179, 255);
+
+}
+#box3{
+    background-color: rgb(32, 218, 20653, 218);
+}
+#box4{
+    background-color: rgb(0, 210, 252);
+}
+
+.image{
+    position: relative;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: brown;
+    left: 20px;
+    top: 50px;
+}
+
+h1{
+    color:rgb(255, 127, 195);
+}
+
+.original{
+    color: rgb(19, 233, 3);
+}
+
+.additional{
+    color:blue;
+}
+
+#show1{
+    color: aqua;
+}
+#show2{
+    color: aqua;
+}
+#show3{
+    color: aqua;
+}
+#show4{
+    color: aqua;
+}
+#show5{
+    color: aqua;
+}
+ul{
+    color:rgb(255, 127, 195);
+}
+.star{
+    color:rgb(0, 179, 255);
+}
+#wars{
+    color: brown;
+}
+.border{
+    border: 2px solid black;
+}
