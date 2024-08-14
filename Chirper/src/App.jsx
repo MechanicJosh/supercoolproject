@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import './styles.css'
 import moment from 'moment';
 
-
 const App = () => {
 
     const [input,setInput] = useState('');
